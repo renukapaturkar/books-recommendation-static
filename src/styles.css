@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital@1&display=swap");
+
+.App {
+  font-family: "Merriweather", serif;
+  text-align: center;
+}
+
+body {
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #bfdbfe;
+  font-family: "Merriweather", serif;
+  color: #374151;
+}
